@@ -1,0 +1,38 @@
+body{
+   text-align: center;
+   
+    justify-content:center;
+}
+.contaner{
+   display:flex;
+    justify-content:center;
+
+}
+.btn{
+    height:150px;
+    width:150px;
+    border:5px solid black;
+    border-radius: 10%;
+    margin:10px;
+    cursor: pointer;;
+}
+
+.red{
+    background-color: red;
+    }
+
+.yellow{
+    background-color: yellow;
+}
+.skyblue{
+    background-color: skyblue;
+}
+.green{
+    background-color: rgb(26, 242, 66);
+}
+.flash{
+    background-color: azure;
+}
+.userflash{
+    background-color: rgb(59, 20, 233);
+}
